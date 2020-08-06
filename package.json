@@ -20,8 +20,8 @@
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "@react-native-community/eslint-config": "^0.0.5",
     "eslint": "^7.6.0",
+    "@react-native-community/eslint-config": "^2.0.0",
     "eslint-config-airbnb": "^18.2.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
